@@ -1,4 +1,4 @@
-<img src="./IMG_9961.PNG" alt="Kasa-Talk App" style="height: 150px; width: 150px;">
+<img src="https://github.com/Kasa-Talk/.github/blob/main/profile/IMG_9961.PNG" alt="Kasa-Talk App" style="height: 150px; width: 150px;">
 
 # Kasa-Talk 
 
