@@ -2,7 +2,7 @@
 
 Aplikasi website kamus bahasa sasak
 
-## Member : Dicoding Capstone Team C23-PS381
+## Member : Dicoding Capstone Team C523-PS038
 
 | Name                    | Dicoding ID  | Learning Path      | Contacts                                                                                                                                                                                |
 | ----------------------- | ----------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
