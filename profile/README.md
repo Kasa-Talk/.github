@@ -3,6 +3,7 @@
 </p>
 
 # Kasa-Talk : Aplikasi website Kamus Bahasa Sasak
+  [![kasatalk](https://kasatalk.vercel.app)]
 
 ## Member : Dicoding Capstone Team C523-PS038
 
