@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Joviar27/Terralysis/assets/95416905/3a875945-833a-4198-a054-0195243b1547" alt="Terralysis App">
+    <img src="https://raw.githubusercontent.com/Kasa-Talk/.github/main/profile/Kasa%20Landing%20Pages.png" alt="Terralysis App">
 </p>
 
 # Kasa-Talk : Aplikasi website Kamus Bahasa Sasak
