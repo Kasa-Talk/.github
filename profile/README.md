@@ -1,8 +1,8 @@
-<img src="https://github.com/Kasa-Talk/.github/blob/main/profile/IMG_9961.PNG" alt="Kasa-Talk App" style="height: 150px; width: 150px;">
+<p align="center">
+    <img src="https://github.com/Joviar27/Terralysis/assets/95416905/3a875945-833a-4198-a054-0195243b1547" alt="Terralysis App">
+</p>
 
-# Kasa-Talk 
-
-Aplikasi website kamus bahasa sasak
+# Kasa-Talk : Aplikasi website Kamus Bahasa Sasak
 
 ## Member : Dicoding Capstone Team C523-PS038
 
