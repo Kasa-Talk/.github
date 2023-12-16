@@ -15,3 +15,7 @@ https://kasatalk.vercel.app
 | Naufal Azmi Wardhana       | F253YA167 | Front-End Back-End   | [![Gita Setyaningsih](https://github.com/Kasa-Talk/.github/blob/main/profile/LinkedIn.png)](https://www.linkedin.com/in/gita-setyaningsih-657996242/) [![RizdkyOktaviari](https://github.com/Kasa-Talk/.github/blob/main/profile/Github.png)](https://github.com/RizdkyOktaviari) |
 | Shafa Asyari Ramadhan            | F253YA050 | Full Stack Development     | [![Shafa Asyari Ramadhan](https://github.com/Kasa-Talk/.github/blob/main/profile/LinkedIn.png)](www.linkedin.com/in/shafaasyari/) [![shafaio](https://github.com/Kasa-Talk/.github/blob/main/profile/Github.png)](https://github.com/shafaio)                   |
 
+## Project Architecture
+<p align="center">
+    <img src="https://github.com/Kasa-Talk/.github/blob/main/profile/project%20architecture.png" alt="Terralysis App">
+</p>
