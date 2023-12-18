@@ -24,5 +24,5 @@ https://kasatalk.vercel.app
 | Role                                 | Repository Link                                                                           |
 | ------------------------------------ | ----------------------------------------------------------------------------------------- |
 | Front-End                            | [kasa-frontend](https://github.com/Kasa-Talk/kasatalk)                                    |
-| Back-End New                         | [kasa-backend](https://github.com/Kasa-Talk/kasa-talk-backend-NEW)                        |
-| Back-End Old                         | [kasa-backend1](https://github.com/Kasa-Talk/kasa-talk-backend)                           |
+| Back-End New                         | [kasa-backend-new](https://github.com/Kasa-Talk/kasa-talk-backend-NEW)                    |
+| Back-End Old                         | [kasa-backend-old](https://github.com/Kasa-Talk/kasa-talk-backend)                        |
